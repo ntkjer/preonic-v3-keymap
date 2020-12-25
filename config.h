@@ -11,7 +11,6 @@
 #endif
 
 #define MUSIC_MASK (keycode != KC_NO)
-
 /*
  * MIDI options
  */
